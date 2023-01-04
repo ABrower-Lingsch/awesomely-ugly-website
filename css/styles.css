@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body {
+    background-color: aqua;
+    font-family: "Silkscreen";
+    margin: 0;
+}
+
+.intro {
+    height: 250px;
+    text-align: center;
+    font-size: 50px;
+    color: #ff0000;
+    
+    
+    
+}
+
+.reasons, .facts {
+    text-align: center;
+    color:blueviolet;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+.frog {
+    color:blue;
+    text-align: center;
+}
+
+img {
+    float: right;
+    height: 200px;
+    width: 200px;
+    transform: translate(-182%, 0%);
+} 
+
+h4 {
+    padding-left: 236px;
+}
+
+button {
+    transform: translate(158%, 0%);
+}
